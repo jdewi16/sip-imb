@@ -1,0 +1,9 @@
+{
+  "name": "SIP-IMB Maluku Tengah - Pemantauan Satelit & Google Forms",
+  "description": "Sistem Informasi Pengawasan IMB/PBG Satpol PP Maluku Tengah terintegrasi Google Form real-time, data satelit Google Maps, dan grounding AI presisi lokasi proyek.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
